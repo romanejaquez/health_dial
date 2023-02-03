@@ -2,7 +2,7 @@
 
 A new Flutter project consisting of a health dial Flutter App that is meant to feed a 2.1 inch round display installed on a "smart" health jacket. This is just the beginning of building the full UI for this prototype. Still in progress, so use at your own discretion. Thank you all!
 
-Follow me on [Twitter]('https://twitter.com/drcoderz')!
+Follow me on [Twitter](https://twitter.com/drcoderz)!
 
 ## Getting Started
 
